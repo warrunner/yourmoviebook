@@ -51,7 +51,7 @@ A number of features are in testing mode and will be made available shortly. The
 1. Create lists of your choice and name the list.
 2. Classify the movie as watched or to be watched.
 3. Recommendations from your previous usage.
-4. The most exciting one is this! Seamlessly connect your data to a database and import it from anytime, anywhere.
+4. The most exciting one is this! Seamlessly connect your data to a database and import it from anywhere at anytime.
 
 # Have suggestions in mind?
 
