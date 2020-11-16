@@ -28,8 +28,8 @@ Works too simple. A default movie list can be downloaded along with the code.
 5. Use 'Next' and 'Previous' buttons to navigate through the results.
 
 # Search through search bar
-Have something in mind? Don't worry. We've added the search bar to ease your efforts
-1.Run the code
+Have something in mind? Don't worry. We've added the search bar to ease your efforts.
+1. Run the code
 2. Type what you're looking for in search bar
 3. Hit Enter button in your keyboard. (Hitting the Search button doesn't work. Sorry for that!)
 4. You'll get the results for the given input.
