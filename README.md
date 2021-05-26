@@ -1,4 +1,4 @@
-## Note: Postgresql is integrated with the current app. Check out it at index.py. Follow the instructions safely before running the code. Scroll to bottom for instructions
+#### Note: Postgresql is integrated with the current app. Check out it at index.py. Follow the instructions safely before running the code. Scroll to bottom for instructions
 
 # your MOVIEBOOK
 Collection of all of your favorite movies
