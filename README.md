@@ -1,3 +1,5 @@
+## Note: Postgresql is integrated with the current app. Check out it at index.py. Follow the instructions safely before running the code. Scroll to bottom for instructions
+
 # your MOVIEBOOK
 Collection of all of your favorite movies
 
@@ -62,5 +64,19 @@ We'd love to hear them. Tell us what's in your mind.
 2. Do not delete or rename the txt file. You can wipe the data in the txt file. This will be nullified when we connect the data to the database. (sorry for that! Thanks for your patience).
 3. Keep a comma if you're giving multiple entities for a same entry. Otherwise, your data might not be processed too well.
 
+# Instructions for sql integrated index.py
+
+The following instructions must be followed before running the index.py file
+1. Install Postgresql and create a localhost at port '5432'.
+2. Create a database in psql with the name 'moviebook'
+3. Create a table in the moviebook database by using the following command =>a create table movies (name text, actor text[], genre text[], language text[])
+
+Now headover to the downloaded index.py file. 
+1. Make a new folder and place index.py in it.
+2. Create virtualenv and activate it.
+3. Install psycopg2 package
+4. Run the index.py file in the (env)
+
+If you find any of the instructions not working or for any assistnace, please do contact 
 
 # Thanks! Have a Great Day
