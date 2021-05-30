@@ -69,7 +69,7 @@ We'd love to hear them. Tell us what's in your mind.
 The following instructions must be followed before running the index.py file
 1. Install Postgresql and create a localhost at port '5432'.
 2. Create a database in psql with the name 'moviebook'
-3. Create a table in the moviebook database by using the following command =>a create table movies (name text, actor text[], genre text[], language text[])
+3. Create a table in the moviebook database by using the following command =>a create table movies (name text, actor text[ ], genre text[ ], language text[ ])
 
 Now headover to the downloaded index.py file. 
 1. Make a new folder and place index.py in it.
